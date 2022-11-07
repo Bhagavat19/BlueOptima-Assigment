@@ -8,7 +8,8 @@ I worked on the given assessment tasks and below is the comments:
              for another task, i am getting an error, but I can suggest for the last 7 days not modified logs we can use the object "LastModified" and filter the logs.
              For email alerts, we can set alerts in cloudwatch and if the lambda function failed, it will trigger the alert to admin.
              For the S3 bucket policy, we can use bucket lifecycle management. 
-  Please find the .py file for the code. Also, I am working on this case till I will get a solution. if possible please give me hint or share the solution.
+             
+  Please find the .py file for the code. Also, I am working on this case till i will get a solution. if possible please give me hint or share the solution.
   
   
 #2. NACL rules and Security Group: 
