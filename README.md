@@ -15,6 +15,6 @@ I worked on the given assessment tasks and below is the comments:
                            I have completed this task successfully and attached the file in the repo. Please download it and check.
                            
                            
-Your feedback and suggestion will help me learn and grow further.
+Your feedback and suggestion will help me to learn and grow further.
 
 Thanks !!
